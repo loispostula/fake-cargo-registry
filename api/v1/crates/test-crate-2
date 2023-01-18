@@ -1,0 +1,49 @@
+{
+  "categories": [],
+  "crate": {
+    "badges": [],
+    "categories": [],
+    "created_at": "2023-01-12T16:51:06.647066+00:00",
+    "description": "Test Package Crate",
+    "documentation": null,
+    "downloads": 44,
+    "exact_match": false,
+    "homepage": null,
+    "id": "test-crate-2",
+    "keywords": [],
+    "links": {},
+    "max_stable_version": "0.3.0",
+    "max_version": "0.3.0",
+    "name": "test-crate-2",
+    "newest_version": "0.3.0",
+    "recent_downloads": 44,
+    "repository": "https://github.com/test/test",
+    "updated_at": "2023-01-15T19:00:34.723908+00:00",
+    "versions": [
+      704063,
+      704062,
+      701926
+    ]
+  },
+  "keywords": [],
+  "versions": [
+    {
+      "crate": "test-crate-2",
+      "id": 704063,
+      "num": "0.3.0",
+      "yanked": false
+    },
+    {
+      "crate": "test-crate-2",
+      "id": 704062,
+      "num": "0.2.0",
+      "yanked": false
+    },
+    {
+      "crate": "test-crate-2",
+      "id": 701926,
+      "num": "0.1.0",
+      "yanked": false
+    }
+  ]
+}
