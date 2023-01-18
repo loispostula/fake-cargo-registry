@@ -12,10 +12,10 @@
     "id": "test-crate-2",
     "keywords": [],
     "links": {},
-    "max_stable_version": "0.3.0",
-    "max_version": "0.3.0",
+    "max_stable_version": "0.1.2",
+    "max_version": "0.1.2",
     "name": "test-crate-2",
-    "newest_version": "0.3.0",
+    "newest_version": "0.1.2",
     "recent_downloads": 44,
     "repository": "https://github.com/test/test",
     "updated_at": "2023-01-15T19:00:34.723908+00:00",
@@ -30,13 +30,13 @@
     {
       "crate": "test-crate-2",
       "id": 704063,
-      "num": "0.3.0",
+      "num": "0.1.2",
       "yanked": false
     },
     {
       "crate": "test-crate-2",
       "id": 704062,
-      "num": "0.2.0",
+      "num": "0.1.1",
       "yanked": false
     },
     {
