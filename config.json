@@ -1,0 +1,4 @@
+{
+  "dl": "https://loispostula.github.io/fake-cargo-registry/api/v1/crates/{crate}/{version}/download",
+  "api": "https://loispostula.github.io/fake-cargo-registry/"
+}
